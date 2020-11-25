@@ -1,5 +1,5 @@
 
-#Reading values and preparing the dataset.
+#Read the main dataset and prepare plotting.
 getwd()
 setwd("C:/Users/Youcef/Downloads/EDA_coursera/exdata_data_household_power_consumption")
 
