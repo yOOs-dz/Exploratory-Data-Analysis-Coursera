@@ -9,7 +9,7 @@ To be able to execute the project, please download and unzip the original datase
 NB. 
 Link 01 : https://github.com/yOOs-dz/ExData_Plotting1
 Link 02 : https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip]
-Sorry. I don't know yet how to put manually hyperlinks :) 
+Sorry. I don't know yet how to put manually hyperlinks !
 My knowledge in coding still very weak ! Please so, copy and past links on your browser. Be also indulgent with my english quality. Notify me also on all mitakes and bad formulations :)
 
 Thank you.
