@@ -3,7 +3,7 @@ Home project assignment for W1 of Coursera MOOC on Exploratory data Analysis wit
 This repository contains an assignment of the 1st week Coursera MOOC "Exploratory Data Analysis with R" [Link 01]. 
 It contains 04 files of R code from which 04 plots are built. It contains also resulting plots in *.png format.
 
-Steps of queries and command are explained within the files.
+Steps of queries and commands are explained within files.
 To be able to execute the project, please download and unzip the original dataset in your home directory [link 02] . For that, you can type getwd() on R prompt to get or setwd() to change it.
 
 NB. 
